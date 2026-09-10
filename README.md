@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Jordan (@jordaneng949)
 
-<!--
-**jordaneng949/jordaneng949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Dublin, currently building distributed services at Tech Labs. Most of my day involves designing REST/gRPC APIs, wrestling with async task queues, and tuning PostgreSQL queries.
 
-Here are some ideas to get you started:
+#### Stack
+- **Languages:** Go, Python
+- **Frameworks:** FastAPI
+- **Databases & Cache:** PostgreSQL, Redis
+- **DevOps/Tools:** Docker, Linux, Make, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently tinkering with
+- Go internals and distributed tracing
+- Local-first architecture patterns
+
+#### Reach out
+Open an issue on any of my repos or drop a message on LinkedIn.
